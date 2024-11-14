@@ -36,7 +36,7 @@ async function sendMessage() {
         headers: {
           "Content-Type": "application/json",
           "x-rapidapi-key":
-            "7350a6b1e1msh72420d6adbdc779p1bf8fcjsnddbf943c1614",
+            "157fded715msh6988179cc7a9f98p1d5aecjsndf3eb4351065",
           "x-rapidapi-host":
             "cheapest-gpt-4-turbo-gpt-4-vision-chatgpt-openai-ai-api.p.rapidapi.com",
         },
